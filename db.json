@@ -1,0 +1,60 @@
+{
+  "photos": [
+    {
+      "id": 1,
+      "albumId": 1,
+      "title": "Foto 1 - Natureza",
+      "url": "https://picsum.photos/id/1018/600/600",
+      "thumbnailUrl": "https://picsum.photos/id/1018/200/200"
+    },
+    {
+      "id": 2,
+      "albumId": 1,
+      "title": "Foto 2 - Montanha",
+      "url": "https://picsum.photos/id/1027/600/600",
+      "thumbnailUrl": "https://picsum.photos/id/1027/200/200"
+    },
+    {
+      "id": 3,
+      "albumId": 2,
+      "title": "Foto 1 - Cidade",
+      "url": "https://picsum.photos/id/1003/600/600",
+      "thumbnailUrl": "https://picsum.photos/id/1003/200/200"
+    },
+    {
+      "id": 4,
+      "albumId": 2,
+      "title": "Foto 2 - Prédios",
+      "url": "https://picsum.photos/id/1011/600/600",
+      "thumbnailUrl": "https://picsum.photos/id/1011/200/200"
+    },
+    {
+      "id": 5,
+      "albumId": 3,
+      "title": "Foto 1 - Mar",
+      "url": "https://picsum.photos/id/1016/600/600",
+      "thumbnailUrl": "https://picsum.photos/id/1016/200/200"
+    },
+    {
+      "id": 6,
+      "albumId": 3,
+      "title": "Foto 2 - Praia",
+      "url": "https://picsum.photos/id/1015/600/600",
+      "thumbnailUrl": "https://picsum.photos/id/1015/200/200"
+    },
+    {
+      "id": 7,
+      "albumId": 4,
+      "title": "Foto 1 - Floresta",
+      "url": "https://picsum.photos/id/1019/600/600",
+      "thumbnailUrl": "https://picsum.photos/id/1019/200/200"
+    },
+    {
+      "id": 8,
+      "albumId": 4,
+      "title": "Foto 2 - Cachoeira",
+      "url": "https://picsum.photos/id/1020/600/600",
+      "thumbnailUrl": "https://picsum.photos/id/1020/200/200"
+    }
+  ]
+}
