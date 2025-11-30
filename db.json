@@ -3,58 +3,132 @@
     {
       "id": 1,
       "albumId": 1,
-      "title": "Foto 1 - Natureza",
+      "title": "Foto 1 - Vale Verde entre Montanhas",
+      "description": "Uma paisagem ampla mostrando um vale verde cercado por montanhas imponentes sob um céu nublado.",
       "url": "https://picsum.photos/id/1018/600/600",
       "thumbnailUrl": "https://picsum.photos/id/1018/200/200"
     },
     {
       "id": 2,
       "albumId": 1,
-      "title": "Foto 2 - Montanha",
+      "title": "Foto 2 - Estrada nas Alturas",
+      "description": "Uma estrada sinuosa cortando as montanhas, cercada por vegetação e formações rochosas.",
       "url": "https://picsum.photos/id/1027/600/600",
       "thumbnailUrl": "https://picsum.photos/id/1027/200/200"
     },
     {
       "id": 3,
+      "albumId": 1,
+      "title": "Foto 3 - Neblina nas Montanhas",
+      "description": "As montanhas são parcialmente cobertas por neblina, criando um clima misterioso.",
+      "url": "https://picsum.photos/id/1012/600/600",
+      "thumbnailUrl": "https://picsum.photos/id/1012/200/200"
+    },
+    {
+      "id": 4,
+      "albumId": 1,
+      "title": "Foto 4 - Montanhas Rochosas ao Amanhecer",
+      "description": "Luzes suaves do amanhecer iluminam picos rochosos e áreas cobertas de grama.",
+      "url": "https://picsum.photos/id/1013/600/600",
+      "thumbnailUrl": "https://picsum.photos/id/1013/200/200"
+    },
+
+    {
+      "id": 5,
       "albumId": 2,
-      "title": "Foto 1 - Cidade",
+      "title": "Foto 1 - Centro Urbano Moderno",
+      "description": "Prédios altos formam uma composição urbana moderna e vibrante.",
       "url": "https://picsum.photos/id/1003/600/600",
       "thumbnailUrl": "https://picsum.photos/id/1003/200/200"
     },
     {
-      "id": 4,
+      "id": 6,
       "albumId": 2,
-      "title": "Foto 2 - Prédios",
+      "title": "Foto 2 - Arquitetura Contemporânea",
+      "description": "Edificações com formas inovadoras e design arrojado compõem a cidade.",
       "url": "https://picsum.photos/id/1011/600/600",
       "thumbnailUrl": "https://picsum.photos/id/1011/200/200"
     },
     {
-      "id": 5,
+      "id": 7,
+      "albumId": 2,
+      "title": "Foto 3 - Ponte Urbana",
+      "description": "Uma ponte moderna conecta dois pontos importantes da cidade.",
+      "url": "https://picsum.photos/id/1005/600/600",
+      "thumbnailUrl": "https://picsum.photos/id/1005/200/200"
+    },
+    {
+      "id": 8,
+      "albumId": 2,
+      "title": "Foto 4 - Fachada de Edifício",
+      "description": "Texturas e padrões arquitetônicos em um prédio contemporâneo.",
+      "url": "https://picsum.photos/id/1008/600/600",
+      "thumbnailUrl": "https://picsum.photos/id/1008/200/200"
+    },
+
+    {
+      "id": 9,
       "albumId": 3,
-      "title": "Foto 1 - Mar",
+      "title": "Foto 1 - Mar Azul Cristalino",
+      "description": "Água cristalina com tons vibrantes de azul iluminada pelo sol.",
       "url": "https://picsum.photos/id/1016/600/600",
       "thumbnailUrl": "https://picsum.photos/id/1016/200/200"
     },
     {
-      "id": 6,
+      "id": 10,
       "albumId": 3,
-      "title": "Foto 2 - Praia",
+      "title": "Foto 2 - Praia Paradisíaca",
+      "description": "Areia branca, mar calmo e palmeiras compõem a paisagem tropical.",
       "url": "https://picsum.photos/id/1015/600/600",
       "thumbnailUrl": "https://picsum.photos/id/1015/200/200"
     },
     {
-      "id": 7,
+      "id": 11,
+      "albumId": 3,
+      "title": "Foto 3 - Ondas Suaves ao Horizonte",
+      "description": "O mar tranquilo se estende por grandes distâncias ao horizonte.",
+      "url": "https://picsum.photos/id/1024/600/600",
+      "thumbnailUrl": "https://picsum.photos/id/1024/200/200"
+    },
+    {
+      "id": 12,
+      "albumId": 3,
+      "title": "Foto 4 - Costa Rochosa",
+      "description": "O encontro entre pedras naturais e oceano cria uma paisagem única.",
+      "url": "https://picsum.photos/id/1025/600/600",
+      "thumbnailUrl": "https://picsum.photos/id/1025/200/200"
+    },
+    {
+      "id": 13,
       "albumId": 4,
-      "title": "Foto 1 - Floresta",
+      "title": "Foto 1 - Floresta densa e viva",
+      "description": "Vegetação intensa com árvores altas e profunda sombra natural.",
       "url": "https://picsum.photos/id/1019/600/600",
       "thumbnailUrl": "https://picsum.photos/id/1019/200/200"
     },
     {
-      "id": 8,
+      "id": 14,
       "albumId": 4,
-      "title": "Foto 2 - Cachoeira",
+      "title": "Foto 2 - Cachoeira entre Rochas",
+      "description": "Uma bela cachoeira surge entre formações rochosas.",
       "url": "https://picsum.photos/id/1020/600/600",
       "thumbnailUrl": "https://picsum.photos/id/1020/200/200"
+    },
+    {
+      "id": 15,
+      "albumId": 4,
+      "title": "Foto 3 - Trilha na Floresta",
+      "description": "Uma trilha estreita atravessa uma floresta exuberante.",
+      "url": "https://picsum.photos/id/103/600/600",
+      "thumbnailUrl": "https://picsum.photos/id/103/200/200"
+    },
+    {
+      "id": 16,
+      "albumId": 4,
+      "title": "Foto 4 - Raízes Antigas",
+      "description": "Raízes de árvores antigas criam formas interessantes no solo.",
+      "url": "https://picsum.photos/id/104/600/600",
+      "thumbnailUrl": "https://picsum.photos/id/104/200/200"
     }
   ]
 }
